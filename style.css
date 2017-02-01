@@ -1,0 +1,17 @@
+body {
+    font-size: 0;
+}
+
+.container {
+    border: 1px solid black;
+    height: 80vh;
+    width: 70%;
+}
+
+.circles {
+    border: 1px solid red;
+    height: 14.1%;
+    width: 14.1%;
+    padding-bottom: 7%;
+    display: inline-block;
+}
